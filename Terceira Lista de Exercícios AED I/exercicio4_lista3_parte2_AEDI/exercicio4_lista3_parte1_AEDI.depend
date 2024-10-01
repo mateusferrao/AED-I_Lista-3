@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726000172 source:c:\users\matheus.costa\desktop\puc\codeblocks\lista 3\exercicio4_lista3_parte1_aedi\main.c
+	<stdio.h>
+	<stdlib.h>
+
